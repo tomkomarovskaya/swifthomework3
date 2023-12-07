@@ -100,6 +100,7 @@ class ViewController: UIViewController {
         print(book3)
         
         //Задание 6 - Создайте перечисление Clothes. Напишите функцию, которая принимает Clothes в качестве параметра и выводит сообщение о выбранной одежде.
+        //смотреть файл Enums2
         
         let item = Clothes.description(type: "Shirt", size: "M", color: "White")
         print(item)
